@@ -15,8 +15,9 @@ Test case# 3
 complete :tada:  
 
 NEXT STEP
+
 # My Favorite Programming languages
--PYTHON
--JAVA
-*C++
-*C
+- PYTHON
+- JAVA
+- C++
+- C
